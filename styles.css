@@ -1,0 +1,25 @@
+* {
+  background: black;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+}
+.btn {
+  background: white;
+  text-align: center;
+}
+.navitems {
+  text-align: center;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+.container {
+  border: 0.15rem solid white;
+  color: white;
+}
